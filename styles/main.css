@@ -1,0 +1,135 @@
+body {
+font-family: Raleway; 700';
+font-size : 12px;
+color: white;
+background: -ms-linear-gradient(left, rgba(255,179,97,1) 0%, rgba(250,91,18,1) 100%);
+background: linear-gradient(to right, rgba(265,199,97,1) 0%, rgba(250,91,18,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb361', endColorstr='#fa5b12', GradientType=1 );
+}
+
+a {
+color: #F7931E;
+list-style-type: none;
+font-size: 12pt;
+font-family: Raleway;
+text-align: left;
+text-decoration: none;
+}
+
+.abeille{
+position: absolute;
+width: 110%;
+height: auto;
+left: 650px;
+top: 70px;
+
+}
+
+
+
+.titre h1 {
+margin-left: 100px;
+margin-top: 85px;
+font-family: 'Fjalla One', sans-serif;
+font-size : 4em;
+color: white;
+line-height: 68px;
+}
+
+.titre h1 span {
+  font-size: 87px;
+  display: block;
+  line-height: 66px;
+}
+
+.intro-gras {
+margin-left: 105px;
+margin-top:-36px;
+font-family: Raleway;
+Font-Weight: 800;
+left: 200px;
+font-size : 18px;
+color: white;
+}
+
+p{
+margin-left: 105px;
+  margin-top:-20px;
+  font-family: Raleway;
+  Font-Weight: 400;
+  left: 200px;
+  font-size : 18px;
+  line-height: 25px;
+  color: white;
+}
+
+.bouton_1 {
+    margin-left: 70px;
+  background-color: white;
+  width: 300px;
+  height: 40px;
+  text-align: center;
+  border: 10px solid white;
+  border-radius: 30px;
+  position: absolute;
+  top: 350px;
+  left: 100px;
+  line-height: 10px;
+  list-style-type: none;
+
+}
+.bouton_2 {
+    margin-left: 70px;
+  background-color: white;
+  width: 300px;
+  height: 40px;
+  text-align: center;
+  border: 10px solid white;
+  border-radius: 30px;
+  position: absolute;
+  line-height: 10px;
+  top: 420px;
+  left: 100px;
+  list-style-type: none;
+
+}
+.bouton_3 {
+    margin-left: 70px;
+  background-color: white;
+  width: 300px;
+  height: 40px;
+  text-align: center;
+  border: 10px solid white;
+  border-radius: 30px;
+  position: absolute;
+  top: 490px;
+  line-height: 10px;
+  left: 100px;
+  list-style-type: none;
+
+}
+.bouton_4 {
+    margin-left: 70px;
+  background-color: white;
+  width: 300px;
+  height: 40px;
+  border: 10px solid white;
+  border-radius: 30px;
+  position: absolute;
+  line-height: 10px;
+  top: 560px;
+  left: 100px;
+  list-style-type: none;
+  text-align: left;
+
+}
+
+video {
+  border-radius:50px;
+  width: 50%;
+  height: auto;
+  position: absolute;
+  top:200px;
+  left: 640px;
+
+}
