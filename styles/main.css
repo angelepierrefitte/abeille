@@ -8,7 +8,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb361', end
 }
 
 a {
-color: #F7931E;
+color: white;
+Font-Weight: 700;
 list-style-type: none;
 font-size: 12pt;
 font-family: Raleway;
@@ -25,11 +26,9 @@ top: 70px;
 
 }
 
-
-
 .titre h1 {
 margin-left: 100px;
-margin-top: 85px;
+margin-top: 135px;
 font-family: 'Fjalla One', sans-serif;
 font-size : 4em;
 color: white;
@@ -44,7 +43,7 @@ line-height: 68px;
 
 .intro-gras {
 margin-left: 105px;
-margin-top:-36px;
+margin-top:-46px;
 font-family: Raleway;
 Font-Weight: 800;
 left: 200px;
@@ -65,14 +64,13 @@ margin-left: 105px;
 
 .bouton_1 {
     margin-left: 70px;
-  background-color: white;
   width: 300px;
   height: 40px;
-  text-align: center;
-  border: 10px solid white;
+  text-align: left;
+  border:2px solid white;
   border-radius: 30px;
   position: absolute;
-  top: 350px;
+  top: 400px;
   left: 100px;
   line-height: 10px;
   list-style-type: none;
@@ -80,48 +78,69 @@ margin-left: 105px;
 }
 .bouton_2 {
     margin-left: 70px;
-  background-color: white;
   width: 300px;
   height: 40px;
-  text-align: center;
-  border: 10px solid white;
+  text-align: left;
+  border: 2px solid white;
   border-radius: 30px;
   position: absolute;
   line-height: 10px;
-  top: 420px;
+  top: 450px;
   left: 100px;
   list-style-type: none;
 
 }
 .bouton_3 {
     margin-left: 70px;
-  background-color: white;
   width: 300px;
   height: 40px;
-  text-align: center;
-  border: 10px solid white;
+  text-align: left;
+  border: 2px solid white;
   border-radius: 30px;
   position: absolute;
-  top: 490px;
+  top: 500px;
   line-height: 10px;
   left: 100px;
   list-style-type: none;
 
 }
+
 .bouton_4 {
     margin-left: 70px;
-  background-color: white;
   width: 300px;
   height: 40px;
-  border: 10px solid white;
+  border: 2px solid white;
   border-radius: 30px;
   position: absolute;
   line-height: 10px;
-  top: 560px;
+  top: 550px;
   left: 100px;
   list-style-type: none;
   text-align: left;
 
+}
+
+.bouton_5 {
+  width: 130px;
+  height: 40px;
+  text-align: left;
+  border: 2px solid white;
+  border-radius: 30px;
+  position: absolute;
+  top: 20px;
+  line-height: 10px;
+  left: 110px;
+  list-style-type: none;
+}
+
+.pagination {
+margin-left: 1370px;
+margin-top:-46px;
+font-family: Raleway;
+Font-Weight: 800;
+left: 200px;
+font-size : 38px;
+color: white;
 }
 
 video {
@@ -129,7 +148,7 @@ video {
   width: 50%;
   height: auto;
   position: absolute;
-  top:200px;
+  top:140px;
   left: 640px;
 
 }
