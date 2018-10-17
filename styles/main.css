@@ -28,7 +28,7 @@ top: 70px;
 
 .titre h1 {
 margin-left: 100px;
-margin-top: 135px;
+margin-top: 175px;
 font-family: 'Fjalla One', sans-serif;
 font-size : 4em;
 color: white;
@@ -58,7 +58,7 @@ margin-left: 105px;
   Font-Weight: 400;
   left: 200px;
   font-size : 18px;
-  line-height: 25px;
+  line-height: 20px;
   color: white;
 }
 
@@ -70,7 +70,7 @@ margin-left: 105px;
   border:2px solid white;
   border-radius: 30px;
   position: absolute;
-  top: 400px;
+  top: 405px;
   left: 100px;
   line-height: 10px;
   list-style-type: none;
@@ -85,7 +85,7 @@ margin-left: 105px;
   border-radius: 30px;
   position: absolute;
   line-height: 10px;
-  top: 450px;
+  top: 455px;
   left: 100px;
   list-style-type: none;
 
@@ -98,7 +98,7 @@ margin-left: 105px;
   border: 2px solid white;
   border-radius: 30px;
   position: absolute;
-  top: 500px;
+  top: 505px;
   line-height: 10px;
   left: 100px;
   list-style-type: none;
@@ -113,7 +113,7 @@ margin-left: 105px;
   border-radius: 30px;
   position: absolute;
   line-height: 10px;
-  top: 550px;
+  top: 555px;
   left: 100px;
   list-style-type: none;
   text-align: left;
@@ -121,7 +121,7 @@ margin-left: 105px;
 }
 
 .bouton_5 {
-  width: 130px;
+  width: 145px;
   height: 40px;
   text-align: left;
   border: 2px solid white;
